@@ -28,5 +28,3 @@
 - mask_start - 서버 상에서 FastAPI를 실행 시 사용하는 파일(서버에서는 데몬 구동)
 - conf 폴더 - API를 구동하는데 공통으로 사용되는 구성과 로그 설정
 - models, utils 폴더 - YOLO모델을 구동시기키위한 폴더
-
-## 자세한 개발 내용은 제 [포트폴리오](https://pony1945.notion.site/Pony-s-Portfolio-177efa2438464410b5ef040dc67ce403?pvs=4)에서 확인 가능합니다.
